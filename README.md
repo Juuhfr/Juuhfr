@@ -9,7 +9,7 @@
 
 ### Estou cursando engenharia de computação e tenho técnico em automação industrial 📝
 
-#### Sou apaixonada por tecnologia e espero me desenvolver mais a cada dia para ser uma pessoa contribuinte na área
+#### Sou apaixonada por tecnologia e espero me desenvolver mais a cada dia para ser uma pessoa relevante na área
 
 ## Email para contato:
 - [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](juliafrsouzaa@gmail.com)
