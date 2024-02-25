@@ -1,4 +1,4 @@
-### Olá, eu me chamo Júlia Freire 👋
+### Olá, eu me chamo Júlia 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/júlia-freire-de-souza-0693b3204)
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/julia-freire-de-souza-2/)
